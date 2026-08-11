@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Oii%2C+%C3%A9+a+manu!;Desenvolvedora+de+software+%F0%9F%92%9C;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**manuu-aicode/manuu-aicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://youtube.com/@SEU-CANAL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+  </a>
+  <a href="https://instagram.com/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://twitch.tv/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch" />
+  </a>
+  <a href="https://discord.gg/SEU-SERVIDOR" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+  </a>
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</p>
+<br>
