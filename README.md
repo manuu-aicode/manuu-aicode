@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/SEU-USUARIO">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Oii%2C+%C3%A9+a+manu!;Desenvolvedora+de+software+%F0%9F%92%9C;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
