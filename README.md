@@ -18,6 +18,6 @@
   <a href="mailto:seuemail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  
+  <p align="center"><img src="c837ef0f64c4cfba3ded1a5457cf4002.gif" width="200" height="200"></p>
 </p>
 <br>
